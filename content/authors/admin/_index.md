@@ -74,22 +74,22 @@ work:
   - position: Teaching Assistant
     company_name: Ludwig-Maximilians-University Munich
     icon: ''
-    date_start: "2024-03"
+    date_start: "2024-03-01"
     date_end: ""
     summary: |
       Teaching assistant for the master students on strong and weak gravitational lensing
   - position: Teaching Assistant
     company_name: Ludwig-Maximilians-University Munich
     icon: ''
-    date_start: "2021-10"
-    date_end: "2023-08"
+    date_start: "2021-10-01"
+    date_end: "2023-08-31"
     summary: |
       Teaching assistant for the physics lab of medicine, pharmacy and biology students
   - position: Teaching Assistant
     company_name: Albert-Ludwigs University Freiburg
     icon: ''
-    date_start: "2020-10"
-    date_end: "2021-03"
+    date_start: "2020-10-01"
+    date_end: "2021-03-31"
     summary: |
       Teaching assistant for the lecture experimental physics I for physics undergraduates
 
