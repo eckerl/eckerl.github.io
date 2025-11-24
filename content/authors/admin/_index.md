@@ -1,20 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Leon Roman Ecker
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
-
-# Status emoji
-status:
-  icon: 🚀
+first_name: Leon Roman
+last_name: Ecker
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,35 +16,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student Astrophysics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University observatory munich (USM)
+    url: https://www.physik.lmu.de/observatory/de/
+  - name: Max-Planck Institute for extraterrestrial physics
+    url: https://www.mpe.mpg.de/index
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:L.Ecker@campus.lmu.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/eckerl
+  - icon: brands/instagram
+    url: https://www.instagram.com/leon9e/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/leon-roman-ecker-802211257/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=ykQXsq8AAAAJ&hl=de
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0005-3508-2469
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Extragalactic Astronomy
+  - Strong Gravitational Lensing
+  - Cosmology
 
 education:
   - area: PhD Computer Science (AI Focus)
