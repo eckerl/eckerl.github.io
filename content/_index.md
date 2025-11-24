@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
+title: 'Personal Webpage Leon Ecker'
+date: 2025-11-23
 type: landing
 
 design:
@@ -34,17 +34,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I have a range of research interests in extragalactic astrophysics, with my primary focus on using strong gravitational lensing to study the Universe. This includes discovering strong lenses in large surveys like Euclid, modeling their mass distributions, and performing galaxy photometry to separate the light from the lens and the lensed arcs. Through photometry, I can also study the lens galaxy’s structure and stellar content. I am also engaged in research on supermassive black holes and cosmology inferred from strong lensing using the time-delay method. Ultimately, my key scientific interest is using strong lensing to probe dark matter and understand galaxy formation and evolution.
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Relevant phenomena
       filters:
         folders:
           - publications
