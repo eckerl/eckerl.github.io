@@ -48,34 +48,27 @@ interests:
   - Cosmology
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Astrophysics
+    institution: Ludwig-Maximilians-University Munich
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024
+    date_end: 2027
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Thesis ongoing _Strong Gravitational Lensing_. Supervised by Dr. Stella Seitz, Prof. Ralf Bender, Prof. Sherry Suyu, PD Roberto Saglia
+  - area: MS Astrophysics
+    institution: Ludwig-Maximilians-University Munich
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2021
+    date_end: 2023
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Thesis title _Time Delay Cosmography of a Gravitationally Lensed Binary Quasar System_. Supervised by Dr. Stella Seitz, Dr. Giacomo Queirolo, Prof. Ralf Bender
+  - area: BS Physics
+    institution: Albert-Ludwigs University Freiburg
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2018
+    date_end: 2021
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Thesis title _The mass of the supermassive black hole of the BCG (brightest cluster galaxy) of Abell 498/592_. Supervised by PD Roberto Saglia, Prof. Oskar von der Lühe
 
 work:
   - position: Senior AI Research Scientist
