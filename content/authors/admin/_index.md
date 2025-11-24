@@ -66,7 +66,7 @@ education:
     institution: Albert-Ludwigs University Freiburg/Leibniz Insitute for solar Physics/Max Planck Insitute for extraterrestrial Physics
     icon: ""
     date_start: "2018-10-01"
-    date_end: "2021-09-31"
+    date_end: "2021-09-30"
     summary: |
       Thesis title _The mass of the supermassive black hole of the BCG (brightest cluster galaxy) of Abell 498/592_. Supervised by PD Roberto Saglia, Prof. Oskar von der Lühe
 
