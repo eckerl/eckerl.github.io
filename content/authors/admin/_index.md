@@ -51,22 +51,22 @@ education:
   - area: PhD Astrophysics
     institution: Ludwig-Maximilians-University Munich/Max Planck Insitute for extraterrestrial Physics
     icon: ""
-    date_start: "2024"
-    date_end: "2027"
+    date_start: "2024-03-01"
+    date_end: ""
     summary: |
       Thesis ongoing _Strong Gravitational Lensing_. Supervised by Dr. Stella Seitz, Prof. Ralf Bender, Prof. Sherry Suyu, PD Roberto Saglia
   - area: MS Astrophysics
     institution: Ludwig-Maximilians-University Munich
     icon: ""
-    date_start: "2021"
-    date_end: "2023"
+    date_start: "2021-10-01"
+    date_end: "2023-12-23"
     summary: |
       Thesis title _Time Delay Cosmography of a Gravitationally Lensed Binary Quasar System_. Supervised by Dr. Stella Seitz, Dr. Giacomo Queirolo, Prof. Ralf Bender
   - area: BS Physics
     institution: Albert-Ludwigs University Freiburg/Leibniz Insitute for solar Physics/Max Planck Insitute for extraterrestrial Physics
     icon: ""
-    date_start: "2018"
-    date_end: "2021"
+    date_start: "2018-10-01"
+    date_end: "2021-09-31"
     summary: |
       Thesis title _The mass of the supermassive black hole of the BCG (brightest cluster galaxy) of Abell 498/592_. Supervised by PD Roberto Saglia, Prof. Oskar von der Lühe
 
